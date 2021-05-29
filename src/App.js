@@ -100,7 +100,7 @@ function App() {
   };
   return (
     <div className="container mt-3">
-      <h1 className="text-center">ToDo List</h1>
+      <h1 className="text-center">ToDo List test github</h1>
       <div className="row">
         <div className="col-md-6">
           <h3>Lista tareas</h3>
